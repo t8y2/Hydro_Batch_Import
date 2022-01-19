@@ -31,7 +31,7 @@ ed = int(input())
 print("请输入要定义的起始编号")
 pos = int(input())
 
-web.get("http://url/problem/import/syzoj)  #此处填写你自己的OJ url 
+web.get("http://url/problem/import/syzoj")  #此处填写你自己的OJ url 
 
 time.sleep(1)
 
